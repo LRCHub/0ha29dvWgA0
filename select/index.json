@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Gotta Go Home",
+  "base_artist": "Boney M.",
+  "createdAt": "2026-02-08T14:03:35.245559Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gotta Go Home",
+      "artist": "Boney M.",
+      "has_synced": true,
+      "path": "select/01_Gotta_Go_Home_Boney_M..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Gotta Go Home",
+      "artist": "DMX feat. Monica",
+      "has_synced": true,
+      "path": "select/02_Don't_Gotta_Go_Home_DMX_feat._Monica.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Gotta Go Home (feat. Monica)",
+      "artist": "DMX",
+      "has_synced": true,
+      "path": "select/03_Don't_Gotta_Go_Home_(feat._Monica)_DMX.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don’t Gotta Go Home",
+      "artist": "DMX",
+      "has_synced": true,
+      "path": "select/04_Don’t_Gotta_Go_Home_DMX.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gotta Go Home",
+      "artist": "Boney M.",
+      "has_synced": false,
+      "path": "select/05_Gotta_Go_Home_Boney_M..txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Gotta Go Home",
+      "artist": "Will Smith",
+      "has_synced": false,
+      "path": "select/06_I_Gotta_Go_Home_Will_Smith.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gotta Go Home",
+      "artist": "Slade",
+      "has_synced": false,
+      "path": "select/07_Gotta_Go_Home_Slade.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gotta Go Home",
+      "artist": "Boney M",
+      "has_synced": false,
+      "path": "select/08_Gotta_Go_Home_Boney_M.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "gotta go home",
+      "artist": "Boney M",
+      "has_synced": true,
+      "path": "select/09_gotta_go_home_Boney_M.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gotta Go Home (7\" Version)",
+      "artist": "Boney M.",
+      "has_synced": true,
+      "path": "select/10_Gotta_Go_Home_(7__Version)_Boney_M..lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gotta Go Home",
+      "artist": "Boney M.",
+      "has_synced": true,
+      "path": "select/11_Gotta_Go_Home_Boney_M..lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gotta Go Home",
+      "artist": "Boney M.",
+      "has_synced": true,
+      "path": "select/12_Gotta_Go_Home_Boney_M..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gotta Go Home",
+      "artist": "Boney M.",
+      "has_synced": false,
+      "path": "select/pl_01_Gotta_Go_Home_Boney_M..txt"
+    }
+  ]
+}
